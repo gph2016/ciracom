@@ -1,2 +1,2 @@
 cinst ccleaner
-cinst install-windowsupdate
+install-windowsupdate -accepteula
