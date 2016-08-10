@@ -1,3 +1,4 @@
+Invoke-boxstarter -RebootOK
 install-windowsupdate -accepteula
 Invoke-Reboot
-cinst notepadplusplus.install
+cinst ccleaner
